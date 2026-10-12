@@ -1,0 +1,15 @@
+{
+  "name": "daslakshan-khel",
+  "version": "0.1.0",
+  "description": "Daslakshan Khel 2026 web app: reference recreation (demo backend, no game engine yet).",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "license": "UNLICENSED"
+}

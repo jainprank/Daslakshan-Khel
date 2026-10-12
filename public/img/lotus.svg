@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-hidden="true">
+  <!-- PLACEHOLDER mark drawn for this build with simple ellipses. Not the reference's artwork (its assets were not reused). -->
+  <rect width="64" height="64" rx="16" fill="#FBF7EE"/>
+  <ellipse cx="32" cy="27" rx="6" ry="13" fill="#F1C9A6"/>
+  <ellipse cx="22" cy="31" rx="5" ry="11" transform="rotate(-25 22 31)" fill="#E2A877"/>
+  <ellipse cx="42" cy="31" rx="5" ry="11" transform="rotate(25 42 31)" fill="#E2A877"/>
+  <rect x="12" y="44" width="40" height="5" rx="2.5" fill="#1E6A3B"/>
+</svg>
